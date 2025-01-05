@@ -4,7 +4,6 @@ I'm LeBern Matthews, an aspiring software engineer with a passion for programmin
 I am building little projects in Python to further my learning and identify gaps in my knowledge.
 
 ## Interests
-I am currently interested in:
 - Python
 - Software development
 - Web development
